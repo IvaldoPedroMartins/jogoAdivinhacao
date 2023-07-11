@@ -1,5 +1,5 @@
 # jogoAdivinhacao
-codigos simulando um jogo para adivinhar um numero.
+codigos simulando um jogo para adivinhar um numero.\n
 Descrição: Os alunos participarão de um jogo de adivinhação em que terão que adivinhar um número secreto dentro de um determinado intervalo. Eles usarão variáveis, laços de repetição e estruturas de controle de fluxo para interagir com o jogo.
 
 Regras do jogo:O número secreto será gerado aleatoriamente no início do jogo e estará dentro de um intervalo específico.Os alunos terão um número limitado de tentativas para adivinhar o número secreto.Após cada tentativa, o jogo informará aos alunos se o número digitado é maior, menor ou igual ao número secreto.Ao final do jogo, o resultado será exibido, informando se o aluno adivinhou corretamente ou não.
